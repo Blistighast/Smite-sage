@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Navbar = () => {
+const MageList = () => {
   return ( 
     <div>
-      Navbar
+      Mages
     </div>
    );
 }
  
-export default Navbar;
+export default MageList;
